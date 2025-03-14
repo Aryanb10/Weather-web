@@ -13,6 +13,11 @@ This is a simple weather app built using HTML and CSS. The app allows users to v
 - **HTML**: For structuring the content and elements on the page.
 - **CSS**: For styling and layout of the page.
 
+## Sample Images
+![Screenshot_1](https://github.com/Aryanb10/Weather-web/blob/78346b4586ae49763aea1f6dc8220077fbaf21bd/Screenshot%202025-03-12%20045029.png)
+![Screenshot_2](https://github.com/Aryanb10/Weather-web/blob/78346b4586ae49763aea1f6dc8220077fbaf21bd/Screenshot%202025-03-12%20045218.png)
+
+
 ## Setup and Installation
 
 To run the weather app locally on your machine, follow these steps:
