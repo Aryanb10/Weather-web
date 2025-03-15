@@ -20,8 +20,6 @@ This is a simple weather app built using HTML and CSS. The app allows users to v
 
 ## Setup and Installation
 
-To run the weather app locally on your machine, follow these steps:
-
 1. Clone the repository:
 
    ```bash
